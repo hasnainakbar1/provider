@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826251421737",
+    "project_id": "asmatkhan-b86bd",
+    "storage_bucket": "asmatkhan-b86bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826251421737:android:a012a7e7da5d62b7fa5438",
+        "android_client_info": {
+          "package_name": "com.example.khan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIXgRiiEGiGLaXn9I63FKTYyOHbi8hB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826251421737:android:13b637718dc44500fa5438",
+        "android_client_info": {
+          "package_name": "com.hello.tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIXgRiiEGiGLaXn9I63FKTYyOHbi8hB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
